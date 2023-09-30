@@ -1,0 +1,12 @@
+{
+  "liveServer.settings.port": 5501,
+  "editor.fontSize": 13,
+  "editor.renderWhitespace": "trailing",
+  "files.exclude": {
+    "": true
+  },
+  "editor.colorDecorators": false,
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredHighContrastColorTheme": "Community Material Theme Lighter High Contrast",
+  "workbench.preferredDarkColorTheme": "Community Material Theme Darker"
+}
